@@ -1,26 +1,26 @@
 import React, { useState, useEffect } from "react";
-import bgFlower from "figma:asset/f900a351fe8bcde5b66aada289764c7b4022705d.png";
-import bgLeaves from "figma:asset/99eba433384d079aa1ff84ab3ea20f9413d37c96.png";
+import bgFlower from "figma:asset/f900a351fe8bcde5b66aada289764c7b4022705d.webp";
+import bgLeaves from "figma:asset/99eba433384d079aa1ff84ab3ea20f9413d37c96.webp";
 import "./styles/serenova.css";
 import wanishiLogo from "figma:asset/5250bb740b07aa0be3342613feec9d1105af37af.png";
 import { RewireAccordion } from "./components/RewireAccordion";
-import heidiImg from "@/imports/ChatGPT_Image_19_Ag_u_2026_18_38_35_2.png";
-import heidiAboutImg from "@/imports/IMG_4607.jpeg";
-import testiPhoto from "figma:asset/98dba751f717623dc7d1e1999dc23286b023cded.png";
+import heidiImg from "@/imports/ChatGPT_Image_19_Ag_u_2026_18_38_35_2.webp";
+import heidiAboutImg from "@/imports/IMG_4607.webp";
+import testiPhoto from "figma:asset/98dba751f717623dc7d1e1999dc23286b023cded.webp";
 import {
   Award, Activity, Microscope, Gauge, Atom, Sprout,
   Sun, Zap, HeartHandshake, Compass, Leaf, Waves,
 } from "lucide-react";
 
-import heroBgImg from "figma:asset/5de5a41352649823b3232605258be6f273b66bfa.png";
-import ctaBgImg from "@/imports/ChatGPT_Image_6_Tem_2026_15_43_00-1.png";
-import ctaRightImg from "@/imports/ChatGPT_Image_6_Tem_2026_15_37_34_1.png";
+import heroBgImg from "figma:asset/5de5a41352649823b3232605258be6f273b66bfa.webp";
+import ctaBgImg from "@/imports/ChatGPT_Image_6_Tem_2026_15_43_00-1.webp";
+import ctaRightImg from "@/imports/ChatGPT_Image_6_Tem_2026_15_37_34_1.webp";
 import certFnaBadge from "figma:asset/6843721a62a0a872d72dc2fa8833e9220713c91c.png";
 import certNeuroBadge from "figma:asset/d5fc2a75897708e2b630330a6e91e3e5fbaeb25f.png";
-import costBgImg from "figma:asset/5250878833393f9b50178b6c53a101883ba1e9b3.png";
-import heidiCallingPhoto from "figma:asset/0ee53c4f8b5cb8f8df4802deab4713dac449e247.png";
-import speakingImg from "figma:asset/b073acc77ec46f1f27855c1c28f9d18580a22f34.png";
-import otherSideImg from "@/imports/Looks_LIke_on_the_OTHER_SIDE_LE_upscale_gentle.jpg";
+import costBgImg from "figma:asset/5250878833393f9b50178b6c53a101883ba1e9b3.webp";
+import heidiCallingPhoto from "figma:asset/0ee53c4f8b5cb8f8df4802deab4713dac449e247.webp";
+import speakingImg from "figma:asset/b073acc77ec46f1f27855c1c28f9d18580a22f34.webp";
+import otherSideImg from "@/imports/Looks_LIke_on_the_OTHER_SIDE_LE_upscale_gentle.webp";
 
 const heidiCallingImg = "https://images.unsplash.com/photo-1704775986647-b2fd38120e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBkb2N0b3IlMjBsYWIlMjBjb2F0JTIwc3RldGhvc2NvcGUlMjBvdXRkb29yJTIwaGFuZHMlMjBvbiUyMGhpcHMlMjBjb25maWRlbnR8ZW58MXx8fHwxNzczNjgxODE2fDA&ixlib=rb-4.1.0&q=80&w=1080";
 
@@ -187,7 +187,7 @@ function Hero() {
                 className="hero-cert-badge hero-cert-badge--boost"
               />
               <img
-                src="https://cdn.katalyst-crm.com/t1/FMACP%20Badge%20No%20BG.png"
+                src="https://cdn.katalyst-crm.com/a/038b97e5-7c39-6982-30bf-eae6881cd489"
                 alt="Functional Medicine Certified Practitioner"
                 className="hero-cert-badge hero-cert-badge--boost"
               />
